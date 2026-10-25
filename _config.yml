@@ -1,4 +1,5 @@
 title: "harold"
 description: "Mon atelier informatique"
-theme: minima
-author:"Harold"
+theme: "minima"
+author: "Harold"
+future: true
