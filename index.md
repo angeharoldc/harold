@@ -3,8 +3,8 @@ layout: default
 ---
 
 # Образование
-- Студент бакалавриата СПбГУ по направлению «Программная инженерия»
+- Студент бакалавриата СПбГУ по направлению «Технологии программирования»
 
 # Контакты
-- email: vladimir.kutuev@gmail.com
+- email: angeharoldc@gmail.com
 - telegram: [Харольд Кулибали](https://t.me/angeharoldc)
